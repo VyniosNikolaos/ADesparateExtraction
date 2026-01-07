@@ -75,6 +75,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/BattleField_Desert/*
 Content/BattleField_Desert/Landscape/LandscapeMaterial/BF_Landscape_Master_Mat.uasset
 Content/BattleField_Desert/Landscape/LandscapeMaterial/BF_Landscape_Master_Mat_Inst.uasset
 Content/BattleField_Desert/Landscape/LandscapeMaterial/MaterialFunctions/MF_Coast_BR_a.uasset
@@ -599,3 +600,4 @@ Content/BattleField_Desert/Textures/PropTextures/T_Wood_Structure_1_SRM.uasset
 Content/BattleField_Desert/Textures/PropTextures/T_WoodenCases_BaseColor.uasset
 Content/BattleField_Desert/Textures/PropTextures/T_WoodenCases_Normal.uasset
 Content/BattleField_Desert/Textures/PropTextures/T_WoodenCases_SRM.uasset
+/Content/BattleField_Desert
